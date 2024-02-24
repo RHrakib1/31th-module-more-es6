@@ -7,7 +7,7 @@ const products = [
 
 
 
-
+// clas k variable add krte hole pothom word boro hat er hbe 
 class product {
     country = 'bangladesh';
     constructor(name) {
