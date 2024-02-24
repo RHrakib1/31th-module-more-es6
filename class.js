@@ -44,4 +44,7 @@ class medam {
     }
 }
 const mem = new medam('zinnat mem', 'data structure', 30);
-console.log(mem)
+console.log(mem);
+
+const mem2 = new medam('sopna mem', 'peripheral', 33);
+console.log(mem2)
